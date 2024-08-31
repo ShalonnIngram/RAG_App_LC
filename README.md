@@ -1,5 +1,7 @@
 # Chat With Your Internal Documents
 
+https://github.com/user-attachments/assets/d7f58c9d-edb8-41cf-b55a-7502621221d2
+
 
 ## Overview
 
@@ -57,7 +59,8 @@ Click the image above to watch the demo video.
 
 
 1. Clone the repository:
-   ``bash git clone https://github.com/your-username/your-repository.git
+   ``bash
+     git clone https://github.com/your-username/your-repository.git
 
    ```bash
      pip install -r requirements.txt
