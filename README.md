@@ -1,13 +1,15 @@
-# Project Title
+# Chat With Your Internal Documents
 
-[![Project Banner](path-to-banner-image)](path-to-banner-image) <!-- Optional: Add a clickable banner image -->
 
 ## Overview
 
-Briefly describe what the project does and its purpose. This can include:
-- The problem it solves.
-- The main features and functionalities.
-- The technology stack used.
+This AI Powered Internal Applications querys the content of documents by:
+- Allows users to chat with multiple documents simultaneously
+- Acceptable formats include: .txt, .pdf, .docx, .pptx, .csv, .xlsx
+- Tech Stack: OpenAI Embeddings/LLM Model gpt-4o-mini, Vector Database Chroma
+
+<img width="1125" alt="Screenshot 2024-08-31 at 12 01 29 AM" src="https://github.com/user-attachments/assets/13b1a246-14ee-4194-b181-682718628c70">
+<br>
 
 ## Demo
 
