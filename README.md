@@ -12,29 +12,50 @@ This AI Powered Internal Applications querys the content of documents by:
 <br>
 
 ## Demo
+<a href="https://youtu.be/ztBJqzBU5kc">
+  <img src="https://github.com/user-attachments/assets/c22b7111-9af9-4d4f-9490-8857befa4158" alt="Watch the video" width="100%">
+</a>
 
-[![Watch the video](path-to-thumbnail-image)](https://github.com/user-attachments/assets/c22b7111-9af9-4d4f-9490-8857befa4158) <!-- Embed a video with a clickable image -->
+[![Watch the video](path-to-thumbnail-image)]() <!-- Embed a video with a clickable image -->
 
 Click the image above to watch the demo video.
 
 ## Screenshots
 
 ![Screenshot 1](path-to-screenshot-1) <!-- Example screenshot -->
-![Screenshot 2](path-to-screenshot-2)
+<img width="1125" alt="Screenshot 2024-08-31 at 12 01 29 AM" src="https://github.com/user-attachments/assets/df89e423-341a-4e53-b193-62f43acaa657">
 
-## Features
 
-- **Feature 1**: Brief description of the feature.
-- **Feature 2**: Brief description of the feature.
-- **Feature 3**: Brief description of the feature.
+### Project Structure
 
-## Installation
+- `app.py`: Main application script.
+- `.env`: file which will contain your environment variable.
+- `requirements.txt`: Python packages required for working of the app.
+- `README.md`: Project documentation.
 
-### Prerequisites
+### Dependencies
 
-- List any prerequisites needed to run the project (e.g., Python, Node.js).
+- PyPDF2
+- langchain
+- Streamlit
+- OpenAI
+- dotenv
+- **Note:** This project requires Python 3.10 or higher.
 
-### Steps
+### Instructions
+- updated the .env file with your OpenAI credentials
+- start a virtual environment
+- ```bash
+   pip install -r requirements.txt
+   ```
+- run code and access application  ```bash
+   streamlit run main.py
+   ```
+  `http://localhost:8501`
+- select browse file
+- select the process button
+- add query to text box to query documents
+
 
 1. Clone the repository:
    ```bash
