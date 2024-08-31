@@ -6,21 +6,20 @@ https://github.com/user-attachments/assets/d7f58c9d-edb8-41cf-b55a-7502621221d2
 
 ## Overview
 
-This AI Powered Internal Applications querys the content of documents by:
-- Allows users to chat with multiple documents simultaneously
-- Acceptable formats include: .txt, .pdf, .docx, .pptx, .csv, .xlsx
-- Tech Stack: OpenAI Embeddings/LLM Model gpt-4o-mini, Vector Database Chroma, Streamlit for UI
+This AI Powered Internal Document Query Application extracts text from various documents to:
+- Allow users to chat with multiple documents simultaneously
+- Retrieve text from file formats including: .txt, .pdf, .docx, .pptx, .csv, .xlsx
+- Uses latest GenAI Technology --> Tech Stack: OpenAI Embeddings/LLM Model gpt-4o-mini, Vector Database Chroma, Streamlit for UI
 
 <img width="1125" alt="Screenshot 2024-08-31 at 12 01 29 AM" src="https://github.com/user-attachments/assets/13b1a246-14ee-4194-b181-682718628c70">
 
 # Project Structure
-
 - `app.py`: Main application script.
 - `.env`: file which will contain your environment variable.
 - `requirements.txt`: Python packages required for working of the app.
 - `README.md`: Project documentation.
-## Dependencies
 
+# Dependencies
 - PyPDF2
 - langchain
 - Streamlit
@@ -34,7 +33,7 @@ This AI Powered Internal Applications querys the content of documents by:
 
 
 # Instructions
-- updated the .env file with your OpenAI credentials
+- update the .env file with your OpenAI credentials
 - start a virtual environment
 - run code and access application  `
 - select browse files
