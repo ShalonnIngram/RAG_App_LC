@@ -13,7 +13,7 @@ This AI Powered Internal Applications querys the content of documents by:
 
 ## Demo
 
-[![Watch the video](path-to-thumbnail-image)](path-to-video-url) <!-- Embed a video with a clickable image -->
+[![Watch the video](path-to-thumbnail-image)](https://github.com/user-attachments/assets/c22b7111-9af9-4d4f-9490-8857befa4158) <!-- Embed a video with a clickable image -->
 
 Click the image above to watch the demo video.
 
