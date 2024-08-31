@@ -1,5 +1,5 @@
 # Chat With Your Internal Documents
-Click the image above to watch the demo video.
+Video Demo
 
 https://github.com/user-attachments/assets/d7f58c9d-edb8-41cf-b55a-7502621221d2
 
