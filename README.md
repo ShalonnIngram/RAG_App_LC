@@ -57,5 +57,7 @@ Click the image above to watch the demo video.
 
 
 1. Clone the repository:
+   ``bash git clone https://github.com/your-username/your-repository.git
+
    ```bash
-  [ git clone https://github.com/your-username/your-repository.git](https://github.com/ShalonnIngram/RAG_App_LC.git)
+     pip install -r requirements.txt
