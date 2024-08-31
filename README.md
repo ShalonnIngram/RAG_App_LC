@@ -42,13 +42,12 @@ This AI Powered Internal Document Query Application extracts text from various d
 - select the get respsonse button
 
 1. Clone the repository:
-   ``bash
-     git clone https://github.com/your-username/your-repository.git
-
+   ```bash
+  https://github.com/ShalonnIngram/RAG_App_LC.git
+2. Install dependencies 
    ```bash
      pip install -r requirements.txt
+3. Run Streamlit Application to view UI
    ```bash
-   streamlit run main.py
-   ```bash
-    ``bash
-   streamlit run main.py
+   streamlit run app.py
+   
