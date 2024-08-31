@@ -6,7 +6,7 @@
 This AI Powered Internal Applications querys the content of documents by:
 - Allows users to chat with multiple documents simultaneously
 - Acceptable formats include: .txt, .pdf, .docx, .pptx, .csv, .xlsx
-- Tech Stack: OpenAI Embeddings/LLM Model gpt-4o-mini, Vector Database Chroma
+- Tech Stack: OpenAI Embeddings/LLM Model gpt-4o-mini, Vector Database Chroma, Streamlit for UI
 
 <img width="1125" alt="Screenshot 2024-08-31 at 12 01 29 AM" src="https://github.com/user-attachments/assets/13b1a246-14ee-4194-b181-682718628c70">
 <br>
