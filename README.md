@@ -22,8 +22,7 @@ Click the image above to watch the demo video.
 
 ## Screenshots
 
-![Screenshot 1](path-to-screenshot-1) <!-- Example screenshot -->
-<img width="1125" alt="Screenshot 2024-08-31 at 12 01 29 AM" src="https://github.com/user-attachments/assets/df89e423-341a-4e53-b193-62f43acaa657">
+<img width="1393" alt="Screenshot 2024-08-30 at 11 51 55 PM" src="https://github.com/user-attachments/assets/940c934c-56dc-4ef0-baef-0acd0dbbe8f3">
 
 
 ### Project Structure
